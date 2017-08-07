@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Ishan Tyagi-CV</title>
+</head>
+
+<body style= "background-color:#505161">
+
+<img src="i.jpg"style= "width:204px;height:128px;" align="right">
+
+<h1 style= "text-align: center; color: #AEBD38">RESUME</h1>
+
+
+<h2 style= "text-align: center; color: #AEBD38"">Ishan Tyagi</h2>
+
+
+<h2 style= "text-align: center; color: #AEBD38"">Contact: 88607642XX</h2>
+
+
+<p> 
+
+<table style="width:100%" ; border="5">
+  <tr style = "background-color: #598234 ; color: #AEBD38">
+    <th>Qualification</th>
+    <th>Institution</th> 
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td style= "text-align: center">High School</td>
+    <td style= "text-align: center">Amity International School</td> 
+    <td style= "text-align: center">2012</td>
+  </tr>
+
+<tr>
+    <td style= "text-align: center">Secondary School</td>
+    <td style= "text-align: center">Amity International School</td> 
+    <td style= "text-align: center">2014</td>
+  </tr>
+
+
+<tr>
+    <td style= "text-align: center">B.Tech</td>
+    <td style= "text-align: center">Shiv Nadar University</td> 
+    <td style= "text-align: center">2018</td>
+  </tr>
+
+  
+</table>
+</p>
+<p>
+
+
+<table style="width:100%"; border="5">
+  <tr style = "background-color: #598234 ; color: #AEBD38">
+    <th>Experience</th>
+    <th>Organisation</th> 
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td style= "text-align: center">Summer Internship</td>
+    <td style= "text-align: center">Sopra Steria</td> 
+    <td style= "text-align: center">2018</td>
+  </tr>
+
+<tr>
+    <td style= "text-align: center">Summer Internship</td>
+    <td style= "text-align: center">Quikr</td> 
+    <td style= "text-align: center">2016</td>
+  </tr>
+
+
+<tr>
+    <td style= "text-align: center">Student Coordinator</td>
+    <td style= "text-align: center">Career Developement Center</td> 
+    <td style= "text-align: center">2015-2016</td>
+  </tr>
+
+  
+</table>
+
+</p>
+
+
+<p style = "color:#AEBD38; BACKGROUND-COLOR:#598234 ; font-size:200%">
+ PROJECTS
+
+</p>
+
+<p style = "color:black ; font-size:150%">
+
+1. HR PORTAL:
+
+</p>
+
+<p style = "color:black ; font-size:120%">
+
+Created an integrated system which stores and manages all the data needed to describe the personnel and their framework within an organization.
+
+</p>
+
+<p style = "color:black ; font-size:150%">
+
+2. CULTURAL SOCIETY APPLICATION: 
+
+</p>
+
+<p style = "color:black ; font-size:120%">
+
+This project aims to provide a platform to coordinate the various cultural activities of the student body of Shiv Nadar University.
+
+</p>
+
+<p style = "color:black ; font-size:150%">
+
+3. EVENT MANAGEMENT SOLUTIONS PORTAL:
+
+</p>
+
+<p style = "color:black ; font-size:120%">
+
+Created a portal to ease out the work of event management companies.
+
+</p>
+
+
+<p style = "color:#AEBD38; BACKGROUND-COLOR:#598234 ; font-size:200%">
+ Skills
+
+</p>
+
+<p style = "color:black ; font-size:150%">
+
+•	C, Java, HTML, CSS<br>
+•	R(Analytics), Python<br>
+•	Photoshop 
+
+
+</p>
+
+<p style = "color:#AEBD38; BACKGROUND-COLOR:#598234 ; font-size:200%">
+ EXTRACURRICULAR ACTIVITIES
+
+</p>
+
+<p style = "color:black ; font-size:120%">
+
+•	Secretary, Inspiria- The corporate entity of SNU.<BR>
+•	Organizing Committee of Breeze- Inter college fest of the University.<BR>
+•	Active member of the photography club and culinary club of the University.<BR>
+
+
+
+</p>
+
+<p style = "color:#AEBD38; BACKGROUND-COLOR:#598234 ; font-size:200%">
+ HOBBIES
+
+</p>
+
+<p style = "color:black ; font-size:120%">
+
+•	Attending MUN Conferences<BR>
+•	Adventure Sports<BR>
+•	Playing Squash and Badminton<BR>
+•	Reading Biographies<BR>
+
+
+
+
+</p>
+</body>
+</html>
